@@ -1,0 +1,55 @@
+Version 4
+SymbolType CELL
+LINE Normal -48 -32 -56 -32
+LINE Normal -52 -28 -52 -36
+LINE Normal -48 32 -56 32
+LINE Normal 0 32 64 0
+LINE Normal 0 -32 0 32
+LINE Normal 64 0 0 -32
+LINE Normal -16 40 -16 -40
+LINE Normal -64 64 -16 40
+LINE Normal -64 -64 -64 64
+LINE Normal -16 -40 -64 -64
+LINE Normal 72 -80 -80 -80
+LINE Normal 72 80 72 -80
+LINE Normal -80 80 72 80
+LINE Normal -80 -80 -80 80
+LINE Normal -64 -32 -96 -32
+LINE Normal -64 32 -96 32
+LINE Normal 45 16 96 16
+LINE Normal 96 -16 32 -16
+CIRCLE Normal 45 20 37 12
+TEXT -32 -80 Top 0 Vdd1
+TEXT -32 80 Bottom 0 Vdd2
+TEXT 32 -80 Top 0 gnd1
+TEXT 32 80 Bottom 0 gnd2
+WINDOW 0 0 -80 Bottom 2
+WINDOW 3 63 56 Right 2
+SYMATTR Value AMC1200
+SYMATTR Prefix X
+SYMATTR Description Fully-Differential Isolation Amplifier
+SYMATTR ModelFile AMC1200.lib
+PIN -96 -32 NONE 4
+PINATTR PinName VINP
+PINATTR SpiceOrder 1
+PIN -96 32 NONE 4
+PINATTR PinName VINN
+PINATTR SpiceOrder 2
+PIN 96 -16 NONE 4
+PINATTR PinName VOUTP
+PINATTR SpiceOrder 3
+PIN 96 16 NONE 4
+PINATTR PinName VOUTN
+PINATTR SpiceOrder 4
+PIN -32 -80 NONE 4
+PINATTR PinName VDD1
+PINATTR SpiceOrder 5
+PIN 32 -80 NONE 4
+PINATTR PinName GND1
+PINATTR SpiceOrder 6
+PIN 32 80 NONE 4
+PINATTR PinName GND2
+PINATTR SpiceOrder 7
+PIN -32 80 NONE 4
+PINATTR PinName VDD2
+PINATTR SpiceOrder 8
