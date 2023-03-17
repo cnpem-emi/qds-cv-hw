@@ -1,0 +1,9 @@
+(version 1)
+
+(rule "Max Drill Hole Size Mechanical"
+    (constraint hole_size (max 6.3mm))
+    (condition "A.Pad_Type == 'NPTH, mechanical'"))
+
+(rule "Max Drill Hole Size PTH"
+    (constraint hole_size (max 6.35mm))
+    (condition "A.Pad_Type == 'Through-hole'"))
