@@ -60,4 +60,4 @@ fp-info-cache
 *.ses
 
 # backups
-*-backups
+*-backups/
