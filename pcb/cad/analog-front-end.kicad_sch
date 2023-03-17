@@ -1,0 +1,39 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 047ae8cf-f0cd-4827-b74a-6199585db5ae)
+
+  (paper "A4")
+
+  (title_block
+    (rev "v1.0.0")
+    (company "CNPEM - Brazilian Center for Research in Energy and Materials")
+    (comment 1 "Group: ENT/AIS")
+    (comment 2 "Authors: Gabriel Brunheira / Samuel Fraga")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Isolated analog front-end" (at 99.06 27.94 0)
+    (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
+    (uuid a02767d7-7b2f-4ee3-83dd-fe96cb4f9803)
+  )
+
+  (hierarchical_label "VOLTAGE-TAP-IN-P" (shape input) (at 48.26 72.39 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 35bf1ae9-2153-4c79-b996-d2fff7cecc7b)
+  )
+  (hierarchical_label "+5VREF" (shape input) (at 96.52 120.65 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid aeba558d-6ec9-4702-984c-4744fc4f2e10)
+  )
+  (hierarchical_label "V-DET" (shape output) (at 237.49 80.01 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid da3eac58-8918-4d69-ae90-06d619152097)
+  )
+  (hierarchical_label "VOLTAGE-TAP-IN-N" (shape input) (at 48.26 82.55 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid e346ae27-485f-4ae2-8d88-db54abfc834b)
+  )
+)

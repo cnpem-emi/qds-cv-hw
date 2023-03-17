@@ -1,0 +1,31 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 8c20830d-360e-4486-9077-4253a69ccd40)
+
+  (paper "A4")
+
+  (title_block
+    (rev "v1.0.0")
+    (company "CNPEM - Brazilian Center for Research in Energy and Materials")
+    (comment 1 "Group: ENT/AIS")
+    (comment 2 "Authors: Gabriel Brunheira / Samuel Fraga")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Detection & Validation" (at 97.79 29.21 0)
+    (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
+    (uuid ef2f22ca-3806-45b1-afcd-f9f0e3f58fad)
+  )
+
+  (hierarchical_label "V-DET" (shape input) (at 50.8 82.55 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 5a6165cb-29de-41c3-88e6-61ae72bd2b6f)
+  )
+  (hierarchical_label "TRIG" (shape output) (at 223.52 85.09 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 5d78c858-d94d-4c18-aa18-1c360406e4e6)
+  )
+)

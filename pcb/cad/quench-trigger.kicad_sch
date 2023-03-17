@@ -1,0 +1,32 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid f26ab4bf-04d9-4784-bcc6-3f2bd8bc43ea)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Triggers aggregation, indication and actuation" (at 69.85 27.94 0)
+    (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
+    (uuid 6ba00ac3-798f-443e-b56d-325f6083101f)
+  )
+
+  (hierarchical_label "TRIG-CH-A" (shape input) (at 52.07 69.85 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 82c519da-2673-4d3b-9c78-a48ad7da7012)
+  )
+  (hierarchical_label "TRIG-CH-C" (shape input) (at 52.07 82.55 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 9bbaaa69-9a21-40cf-a168-f501405a68e9)
+  )
+  (hierarchical_label "TRIG-CH-D" (shape input) (at 52.07 88.9 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid ee8a8971-cce4-4ee4-91b4-2006ba201a8c)
+  )
+  (hierarchical_label "TRIG-CH-B" (shape input) (at 52.07 76.2 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid fe720b7b-dcd1-41c3-91cd-86ffe9de0f7f)
+  )
+)

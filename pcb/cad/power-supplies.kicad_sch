@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c8df8687-b928-4034-be78-e737cb21a1f8)
+
+  (paper "A4")
+
+  (title_block
+    (rev "v1.0.0")
+    (company "CNPEM - Brazilian Center for Research in Energy and Materials")
+    (comment 1 "Group: ENT/AIS")
+    (comment 2 "Authors: Gabriel Brunheira / Samuel Fraga")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Power supplies" (at 114.3 25.4 0)
+    (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
+    (uuid 59c13e30-5701-448d-ba01-1740e6bffd07)
+  )
+)
