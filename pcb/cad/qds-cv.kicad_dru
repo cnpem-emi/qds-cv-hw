@@ -1,5 +1,6 @@
 (version 1)
 
+# JLCPCB rules
 (rule "Max Drill Hole Size Mechanical"
     (constraint hole_size (max 6.3mm))
     (condition "A.Pad_Type == 'NPTH, mechanical'"))
@@ -7,3 +8,12 @@
 (rule "Max Drill Hole Size PTH"
     (constraint hole_size (max 6.35mm))
     (condition "A.Pad_Type == 'Through-hole'"))
+
+# LPKF rules
+(rule "Minimum Via Diameter"
+    (constraint via_diameter (min 0.8mm))
+    (condition "A.Type == 'Via'"))
+
+(rule "Minimum Via Hole Size"
+    (constraint hole_size (min 0.4mm))
+    (condition "A.Type == 'Via'"))
