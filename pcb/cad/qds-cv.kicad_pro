@@ -470,12 +470,12 @@
       ""
     ],
     [
-      "9080f165-73ec-4038-a64c-5f7f77d629f0",
-      "Detection & validation"
-    ],
-    [
       "58dce8b4-330b-4018-9ad2-03758b5bcf64",
       "Analog front-end"
+    ],
+    [
+      "9080f165-73ec-4038-a64c-5f7f77d629f0",
+      "Detection & validation"
     ],
     [
       "ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5",
