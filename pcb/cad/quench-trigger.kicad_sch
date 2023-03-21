@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (rev "v1.0.0")
+    (company "CNPEM - Brazilian Center for Research in Energy and Materials")
+    (comment 1 "Group: ENT/AIS")
+    (comment 2 "Authors: Gabriel Brunheira / Samuel Fraga")
+  )
+
   (lib_symbols
   )
 
