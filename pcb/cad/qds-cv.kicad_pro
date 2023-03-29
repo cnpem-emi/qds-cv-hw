@@ -471,11 +471,15 @@
     ],
     [
       "58dce8b4-330b-4018-9ad2-03758b5bcf64",
-      "Analog front-end"
+      "Isolated detection channel A"
     ],
     [
       "9080f165-73ec-4038-a64c-5f7f77d629f0",
-      "Detection & validation"
+      "Detection validation"
+    ],
+    [
+      "fb79e77a-d5d0-4d60-b72c-b2194a9ac387",
+      "+5V reference"
     ],
     [
       "ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5",

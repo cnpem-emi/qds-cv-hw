@@ -3943,7 +3943,7 @@
     (uuid ff9aee94-f554-42ba-a029-d08419fe39f7)
   )
 
-  (text "Triggers aggregation, indication and actuation" (at 69.85 27.94 0)
+  (text "Triggers aggregation, indication and actuation" (at 59.69 26.67 0)
     (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
     (uuid 6ba00ac3-798f-443e-b56d-325f6083101f)
   )
