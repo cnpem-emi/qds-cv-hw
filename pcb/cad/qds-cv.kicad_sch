@@ -2207,7 +2207,7 @@
       (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/58dce8b4-330b-4018-9ad2-03758b5bcf64/50f2656a-6915-44f8-8d84-7ed36a14c50c"
-      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/15a87934-27ca-4ab5-bb56-74aa7cdda1bf/50f2656a-6915-44f8-8d84-7ed36a14c50c"
       (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
@@ -2303,7 +2303,7 @@
       (reference "R?") (unit 1) (value "270") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/8c62880a-eae4-496a-839f-3f5dcc61fe10"
-      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/8faf3e4b-8cbb-4d48-a9c5-00731a002237"
       (reference "R?") (unit 1) (value "270") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -2435,7 +2435,7 @@
       (reference "R?") (unit 1) (value "2.49k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/f7987f5b-458e-477e-9c3d-6e055d13b50a"
-      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
+      (reference "R?") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/b7f66287-b347-4f1e-aa5c-a37fa51d17eb"
       (reference "RV401") (unit 1) (value "50k") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3224X_Vertical")
