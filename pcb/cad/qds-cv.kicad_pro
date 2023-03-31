@@ -474,16 +474,28 @@
       "Isolated detection channel A"
     ],
     [
+      "68100b14-b126-406f-9c03-697951c33636",
+      "Isolated detection channel B"
+    ],
+    [
+      "c84af6e5-1bb5-423f-999f-03d3e295c5be",
+      "Isolated detection channel C"
+    ],
+    [
+      "15a87934-27ca-4ab5-bb56-74aa7cdda1bf",
+      "Isolated detection channel D"
+    ],
+    [
       "9080f165-73ec-4038-a64c-5f7f77d629f0",
       "Detection validation"
     ],
     [
-      "fb79e77a-d5d0-4d60-b72c-b2194a9ac387",
-      "+5V reference"
-    ],
-    [
       "ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5",
       "Quench trigger"
+    ],
+    [
+      "fb79e77a-d5d0-4d60-b72c-b2194a9ac387",
+      "+5V reference"
     ],
     [
       "c8823b20-5a60-4171-a80d-3c6a4d6d360d",
