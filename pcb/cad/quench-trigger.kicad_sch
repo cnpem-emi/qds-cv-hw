@@ -7371,7 +7371,7 @@
     (property "Value" "Conn_Coaxial" (id 1) (at 259.08 80.3031 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal" (id 2) (at 256.54 78.74 0)
+    (property "Footprint" "qds-cv-lib:Molex_0731375003" (id 2) (at 256.54 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.molex.com/pdm_docs/sd/731375003_sd.pdf" (id 3) (at 256.54 78.74 0)

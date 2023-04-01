@@ -2043,19 +2043,19 @@
       (reference "J101") (unit 1) (value "DB25 Female") (footprint "Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/58dce8b4-330b-4018-9ad2-03758b5bcf64/1b904700-0e00-4e80-b12e-ce09cd06f7bb"
-      (reference "J201") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J201") (unit 1) (value "Conn_Coaxial") (footprint "qds-cv-lib:Molex_0731375003")
     )
     (path "/68100b14-b126-406f-9c03-697951c33636/1b904700-0e00-4e80-b12e-ce09cd06f7bb"
-      (reference "J301") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J301") (unit 1) (value "Conn_Coaxial") (footprint "qds-cv-lib:Molex_0731375003")
     )
     (path "/c84af6e5-1bb5-423f-999f-03d3e295c5be/1b904700-0e00-4e80-b12e-ce09cd06f7bb"
-      (reference "J401") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J401") (unit 1) (value "Conn_Coaxial") (footprint "qds-cv-lib:Molex_0731375003")
     )
     (path "/15a87934-27ca-4ab5-bb56-74aa7cdda1bf/1b904700-0e00-4e80-b12e-ce09cd06f7bb"
-      (reference "J501") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J501") (unit 1) (value "Conn_Coaxial") (footprint "qds-cv-lib:Molex_0731375003")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/e1716494-a534-4fce-b71c-a18585d5b88a"
-      (reference "J701") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal")
+      (reference "J701") (unit 1) (value "Conn_Coaxial") (footprint "qds-cv-lib:Molex_0731375003")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/a1df2e06-e26b-4ce1-a572-6e05c9f23409"
       (reference "J702") (unit 1) (value "DB9_Female") (footprint "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
@@ -2615,34 +2615,34 @@
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/cbe49cf2-c623-422b-9865-9cbe42ef4c94"
       (reference "U603") (unit 5) (value "74HCS08") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
-    (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/a782cee8-df7b-4858-bc1e-10ef04270ecd"
-      (reference "U604") (unit 3) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
-    )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/e884e20d-a567-4a8c-bbbc-c730b5837f58"
-      (reference "U605") (unit 1) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
+      (reference "U604") (unit 1) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/a473159b-e774-4f3c-b563-a99ffbda918d"
-      (reference "U605") (unit 2) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
+      (reference "U604") (unit 2) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/9a8d6a44-6716-4d30-9dc2-dc91c1bdc083"
-      (reference "U605") (unit 3) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
+      (reference "U604") (unit 3) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/86fa1120-b044-49e0-bcb6-592e393b9d05"
-      (reference "U605") (unit 4) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
+      (reference "U604") (unit 4) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/1c7c16b6-f58c-41d5-b9c3-e17739c1d70d"
-      (reference "U605") (unit 5) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
+      (reference "U604") (unit 5) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/984314ae-bac2-4c11-85b2-08770a3c2676"
-      (reference "U606") (unit 1) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+      (reference "U605") (unit 1) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/3606f111-e677-4fc1-8169-a837ed16064b"
-      (reference "U606") (unit 2) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+      (reference "U605") (unit 2) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/8c2f3482-303b-496f-b40d-94011360e50b"
-      (reference "U606") (unit 3) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+      (reference "U605") (unit 3) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/245dcaf9-1d9c-46b8-8928-629b709d5385"
+      (reference "U606") (unit 3) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+    )
+    (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/a782cee8-df7b-4858-bc1e-10ef04270ecd"
       (reference "U607") (unit 3) (value "74HC123") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/3d8ecc95-3f6b-45af-9c1c-13632a5ab6b5"
