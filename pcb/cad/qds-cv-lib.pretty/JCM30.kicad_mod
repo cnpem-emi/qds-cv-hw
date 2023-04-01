@@ -31,8 +31,8 @@
   (pad "5" thru_hole circle (at 0 10.16) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp 45561658-e06d-4d84-aadf-ba5842f1a908))
   (pad "6" thru_hole circle (at 10.16 10.16) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp d3abcaf7-dfc7-41fe-b8a2-a9e9eaf8323b))
   (model "${KIPRJMOD}/3dmodels/JCM30.STEP"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 2.75 10.9))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 90 0 0))
   )
 )

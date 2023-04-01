@@ -37,8 +37,8 @@
   (pad "5" thru_hole circle (at -3.81 0) (size 1.518 1.518) (drill 1.01) (layers *.Cu *.Mask) (tstamp 5f2c93c6-043a-4451-98f7-8abb815e8a1e))
   (pad "8" thru_hole circle (at 3.81 0) (size 1.518 1.518) (drill 1.01) (layers *.Cu *.Mask) (tstamp fd272c66-8ae9-4e3a-8ff1-80be54b1d183))
   (model "${KIPRJMOD}/3dmodels/HFBR-1521Z.STEP"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 1 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 90))
   )
 )
