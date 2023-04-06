@@ -1193,6 +1193,9 @@
     (path "/9080f165-73ec-4038-a64c-5f7f77d629f0/adbf37f9-8ce2-4170-a0f6-68a0d5feebc0"
       (reference "#PWR0113") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/adb7eab9-87eb-49ae-b4ee-b85924dc5315"
+      (reference "#PWR0114") (unit 1) (value "Earth") (footprint "")
+    )
     (path "/58dce8b4-330b-4018-9ad2-03758b5bcf64/0fb1d2f7-d6ac-499f-8b37-86a0baca3579"
       (reference "#PWR0201") (unit 1) (value "GND-ISO-A") (footprint "")
     )
@@ -1450,6 +1453,9 @@
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/a8ff5be3-2fba-4dc9-bb4b-d22285337f5d"
       (reference "C704") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/8c7cde2b-c4ed-4882-9e79-73f543d31014"
+      (reference "C705") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/fb79e77a-d5d0-4d60-b72c-b2194a9ac387/1bcc6b91-dfe2-4aa1-a74e-731c3d5644d7"
       (reference "C801") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1776,7 +1782,7 @@
       (reference "U701") (unit 5) (value "74HCS08") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/29331323-c917-4228-b5cb-c244122e0c1c"
-      (reference "U702") (unit 1) (value "74HC574") (footprint "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm")
+      (reference "U702") (unit 1) (value "74HC574") (footprint "Package_SO:SO-20_12.8x7.5mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/197e7b0c-e18f-4f0a-9120-9f15eeaf4d66"
       (reference "U703") (unit 1) (value "74LV132") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
