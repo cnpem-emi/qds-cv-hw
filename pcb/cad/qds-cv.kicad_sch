@@ -2524,6 +2524,9 @@
     (path "/323ddc51-06d6-4803-a1d6-2a9002d84a4e/cc08afb3-1f9a-40a1-8f14-b6ad1f61a926"
       (reference "#PWR0929") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/58dce8b4-330b-4018-9ad2-03758b5bcf64/b4085ae8-36cd-4942-9d92-5b9ca02250de"
+      (reference "#PWR?") (unit 1) (value "GND-ISO-A") (footprint "")
+    )
     (path "/58dce8b4-330b-4018-9ad2-03758b5bcf64/4acc0f00-f398-4825-bf6d-6f0cd46f9074"
       (reference "C201") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
