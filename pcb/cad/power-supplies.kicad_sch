@@ -2842,7 +2842,7 @@
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 9e59f1d2-85ea-474c-9bc0-18181a05672e)
   )
-  (text "EXCLUDE FROM BOARD" (at 69.85 109.855 0)
+  (text "EXCLUDE FROM BOARD" (at 69.85 115.57 0)
     (effects (font (size 10 10) (thickness 2) bold) (justify left bottom))
     (uuid b2b08959-a783-4772-b471-a52e5371de49)
   )
