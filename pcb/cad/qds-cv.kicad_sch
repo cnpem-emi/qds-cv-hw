@@ -1344,10 +1344,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 63b7e247-0be3-46b7-bf9c-9d48e56d1705)
   )
-  (wire (pts (xy 29.21 139.7) (xy 27.94 139.7))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 662b18dc-10ee-4d8e-97bf-f951eb8deba6)
-  )
   (wire (pts (xy 142.24 121.92) (xy 149.86 121.92))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6926a915-d5dd-42f9-b6d8-8a5e747d00b3)
@@ -1551,13 +1547,13 @@
     (uuid f4ab0c2a-cc98-45f8-96c7-c496dcdbc994)
   )
 
-  (symbol (lib_id "Connector:DB25_Female_MountingHoles") (at 29.21 104.14 0) (mirror y) (unit 1)
+  (symbol (lib_id "Connector:DB25_Female_MountingHoles") (at 29.21 104.14 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 038aff54-beed-4c4d-80b5-b4a1c6c1a463)
-    (property "Reference" "J101" (id 0) (at 24.13 109.2201 0)
+    (property "Reference" "J101" (id 0) (at 24.13 99.0599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "DB25 Female" (id 1) (at 22.86 106.68 90)
+    (property "Value" "DB25 Female" (id 1) (at 22.86 101.6 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm" (id 2) (at 29.21 104.14 0)
@@ -2274,19 +2270,19 @@
     )
   )
 
-  (symbol (lib_id "power:Earth") (at 27.94 139.7 0) (unit 1)
+  (symbol (lib_id "power:Earth") (at 29.21 68.58 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b9558b55-d635-4200-a32a-92b292ebe145)
-    (property "Reference" "#PWR0107" (id 0) (at 27.94 146.05 0)
+    (property "Reference" "#PWR0107" (id 0) (at 22.86 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "Earth" (id 1) (at 27.94 143.51 0)
+    (property "Value" "Earth" (id 1) (at 25.4 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (id 2) (at 27.94 139.7 0)
+    (property "Footprint" "" (id 2) (at 29.21 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 27.94 139.7 0)
+    (property "Datasheet" "~" (id 3) (at 29.21 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 52b73a6d-624c-49af-8800-481260d9cc15))
@@ -4435,13 +4431,13 @@
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/197e7b0c-e18f-4f0a-9120-9f15eeaf4d66"
       (reference "U703") (unit 1) (value "74LV132") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
-    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/cdade767-5111-4eca-b560-eccb92caa51a"
+    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/662173bd-dda7-4715-8318-919e3602a656"
       (reference "U703") (unit 2) (value "74LV132") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/70409af1-2837-49b4-ab26-0cf4124b3ad1"
       (reference "U703") (unit 3) (value "74LV132") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
-    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/662173bd-dda7-4715-8318-919e3602a656"
+    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/cdade767-5111-4eca-b560-eccb92caa51a"
       (reference "U703") (unit 4) (value "74LV132") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/8a90a0d9-2788-4b6e-8f24-ade1517a7b00"
@@ -4456,10 +4452,10 @@
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/0067a8eb-ffdd-473c-95ff-e51fd6b8cc6a"
       (reference "U704") (unit 3) (value "74LVC2G17") (footprint "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
     )
-    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/f1cb1b09-3a32-49c9-b31d-f3d3fc6082be"
+    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/08eb767d-dfe5-4b9c-b99b-a8c3913ca2c3"
       (reference "U705") (unit 1) (value "74LVC2G17") (footprint "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
     )
-    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/08eb767d-dfe5-4b9c-b99b-a8c3913ca2c3"
+    (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/f1cb1b09-3a32-49c9-b31d-f3d3fc6082be"
       (reference "U705") (unit 2) (value "74LVC2G17") (footprint "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/19f8eb26-4393-4496-9dcb-d686f2589709"
