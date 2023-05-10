@@ -5044,7 +5044,7 @@
     (property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf" (id 3) (at 109.22 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Description" "Resistor 4k42 0.1% 0.1W SMD 0603" (id 4) (at 109.22 181.61 0)
+    (property "Description" "Resistor 12k1 0.1% 0.1W SMD 0603" (id 4) (at 109.22 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Part Number" "ERA-3AEB1212V" (id 5) (at 109.22 181.61 0)
