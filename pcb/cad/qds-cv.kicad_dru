@@ -5,8 +5,16 @@
     (constraint hole_size (max 6.3mm))
     (condition "A.Pad_Type == 'NPTH, mechanical'"))
 
-(rule "Max Drill Hole Size PTH"
+(rule "Min Non-Plated Holes Size"
+    (constraint hole_size (min 0.5mm))
+    (condition "A.Pad_Type == 'NPTH, mechanical'"))
+
+(rule "Max Hole Size PTH"
     (constraint hole_size (max 6.35mm))
+    (condition "A.Pad_Type == 'Through-hole'"))
+
+(rule "Min Hole Size PTH"
+    (constraint hole_size (min 0.5mm))
     (condition "A.Pad_Type == 'Through-hole'"))
 
 # LPKF rules
