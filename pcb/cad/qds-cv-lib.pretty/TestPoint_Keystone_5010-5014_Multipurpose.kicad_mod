@@ -6,11 +6,11 @@
   (property "Sheetfile" "qds-cv.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
-  (fp_text reference "TP115" (at 0 -2.75) (layer "F.SilkS")
+  (fp_text reference "TP115" (at 0 -2.75) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e9f8e594-3a45-4c2f-bfa7-c2757af7448c)
   )
-  (fp_text value "TestPoint" (at 0 2.75) (layer "F.Fab")
+  (fp_text value "TestPoint" (at 0 2.75) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 64c00413-ca27-40e4-98f5-1be9955c0b9f)
   )
