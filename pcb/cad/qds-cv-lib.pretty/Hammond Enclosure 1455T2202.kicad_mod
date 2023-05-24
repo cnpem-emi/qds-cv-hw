@@ -1,0 +1,35 @@
+(footprint "Hammond Enclosure 1455T2202" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 3 -1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d8517432-4d83-4eaa-a69b-d32370221c45)
+  )
+  (fp_text value "Hammond Enclosure 1455T2202" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 260c9aa0-dba0-45f8-a962-87a11bf611d9)
+  )
+  (fp_line (start 0 0) (end 10 0) (layer "F.CrtYd") (width 0.1) (tstamp 2097d638-56dd-4c2d-9114-befd8b5a2593))
+  (fp_line (start 0 -5) (end 0 0) (layer "F.CrtYd") (width 0.1) (tstamp c48f2c6c-6657-4c50-8f98-ce753d6db715))
+  (pad "1" smd circle (at -2 2) (size 1.524 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c5802cb0-deb4-4539-8d1c-9f27df56af29))
+  (model "${KIPRJMOD}/3dmodels/HAMMOND-1455T2202-body.stp"
+    (offset (xyz 0 123 39))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 90))
+  )
+  (model "${KIPRJMOD}/3dmodels/HAMMOND-1455T2202-top-plate.stp"
+    (offset (xyz 110 37.5 39))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 -90))
+  )
+  (model "${KIPRJMOD}/3dmodels/HAMMOND-1455T2202-end-panel.stp"
+    (offset (xyz 0 123.25 38.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 90))
+  )
+  (model "${KIPRJMOD}/3dmodels/HAMMOND-1455T2202-end-panel.stp"
+    (offset (xyz 220 123.25 -13))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
+)
