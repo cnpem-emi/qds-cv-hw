@@ -1,2 +1,2 @@
-# pcb-hw
-PCB repository template
+# QDS-CV Hardware
+Quench detection system for vertical cryostat.

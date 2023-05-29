@@ -6,6 +6,7 @@
 
   (title_block
     (title "Quench Detection for Vertical Cryostat")
+    (date "2023-05-29")
     (rev "v1.0.0")
     (company "CNPEM - Brazilian Center for Research in Energy and Materials")
     (comment 1 "Group: ENT/AIS")
