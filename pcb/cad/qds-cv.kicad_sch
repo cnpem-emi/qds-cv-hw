@@ -1584,6 +1584,9 @@
     (property "Datasheet" "~" (id 3) (at 240.665 163.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Part Number" "5012" (id 4) (at 240.665 158.115 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 6b1f981a-f70f-4ed7-a7a1-bca68e4399f5))
   )
 
@@ -1671,6 +1674,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 240.665 166.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Part Number" "5012" (id 4) (at 240.665 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bfbd57ca-58e7-4806-82e7-a65efcec4393))
@@ -1761,6 +1767,9 @@
     (property "Datasheet" "https://www.keyelco.com/product-pdf.cfm?p=1321" (id 3) (at 266.065 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Part Number" "5012" (id 4) (at 266.065 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ef250230-f89f-45d8-a8f2-f60f4b98cfa4))
   )
 
@@ -1815,6 +1824,9 @@
     (property "Datasheet" "https://www.keyelco.com/product-pdf.cfm?p=1321" (id 3) (at 266.065 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Part Number" "5012" (id 4) (at 266.065 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 05e84731-9e12-45c6-b468-6287870724bc))
   )
 
@@ -1848,6 +1860,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 240.665 160.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Part Number" "5012" (id 4) (at 240.665 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 599f25f0-425d-4920-b0ca-c93fd26e68c9))
@@ -1936,6 +1951,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.keyelco.com/product-pdf.cfm?p=1321" (id 3) (at 266.065 149.225 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Part Number" "5012" (id 4) (at 266.065 144.145 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e1137544-8d85-47cc-95c2-b0d15d9e8685))
@@ -2184,6 +2202,9 @@
     (property "Datasheet" "~" (id 3) (at 240.665 156.845 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Part Number" "5012" (id 4) (at 240.665 151.765 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid da0c5d2e-b28f-459d-9d1f-953cb8fd573c))
   )
 
@@ -2271,6 +2292,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.keyelco.com/product-pdf.cfm?p=1321" (id 3) (at 266.065 142.875 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Part Number" "5012" (id 4) (at 266.065 137.795 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c6f778ce-bacf-4978-b905-338092688695))
@@ -3570,28 +3594,28 @@
       (reference "C936") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/c8823b20-5a60-4171-a80d-3c6a4d6d360d/da6f771b-07fd-4cff-84fa-aa19f1ab92b8"
-      (reference "C937") (unit 1) (value "C") (footprint "qds-cv-lib:C4532")
+      (reference "C937") (unit 1) (value "TBD") (footprint "qds-cv-lib:C4532")
     )
     (path "/c8823b20-5a60-4171-a80d-3c6a4d6d360d/2970d464-2768-48b7-813f-77e926f1b0bb"
-      (reference "C938") (unit 1) (value "C") (footprint "qds-cv-lib:C4532")
+      (reference "C938") (unit 1) (value "TBD") (footprint "qds-cv-lib:C4532")
     )
     (path "/c8823b20-5a60-4171-a80d-3c6a4d6d360d/7e9d782d-0f7a-4b3e-89e8-e790c34b6dc0"
-      (reference "C939") (unit 1) (value "C") (footprint "qds-cv-lib:C4532")
+      (reference "C939") (unit 1) (value "TBD") (footprint "qds-cv-lib:C4532")
     )
     (path "/c8823b20-5a60-4171-a80d-3c6a4d6d360d/e2a1c419-802d-4612-959d-27f60cd91140"
-      (reference "C940") (unit 1) (value "C") (footprint "qds-cv-lib:C4532")
+      (reference "C940") (unit 1) (value "TBD") (footprint "qds-cv-lib:C4532")
     )
     (path "/c8823b20-5a60-4171-a80d-3c6a4d6d360d/6ce2e23c-0dec-40ee-b9b3-4fc79c8dc9e6"
-      (reference "C941") (unit 1) (value "C") (footprint "qds-cv-lib:C4532")
+      (reference "C941") (unit 1) (value "TBD") (footprint "qds-cv-lib:C4532")
     )
     (path "/c8823b20-5a60-4171-a80d-3c6a4d6d360d/ff134195-f216-4f38-9878-f0dce745717d"
-      (reference "C942") (unit 1) (value "C") (footprint "qds-cv-lib:C4532")
+      (reference "C942") (unit 1) (value "TBD") (footprint "qds-cv-lib:C4532")
     )
     (path "/c8823b20-5a60-4171-a80d-3c6a4d6d360d/77d45919-d257-400b-95b4-d1eb736c4ad8"
-      (reference "C943") (unit 1) (value "C") (footprint "qds-cv-lib:C4532")
+      (reference "C943") (unit 1) (value "TBD") (footprint "qds-cv-lib:C4532")
     )
     (path "/c8823b20-5a60-4171-a80d-3c6a4d6d360d/e707a2d8-2257-4809-8b7c-e883c66eb4d2"
-      (reference "C944") (unit 1) (value "C") (footprint "qds-cv-lib:C4532")
+      (reference "C944") (unit 1) (value "TBD") (footprint "qds-cv-lib:C4532")
     )
     (path "/58dce8b4-330b-4018-9ad2-03758b5bcf64/2fab6571-6df1-47b5-bbe5-f74098a21cd6"
       (reference "D201") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -4485,7 +4509,7 @@
       (reference "U701") (unit 5) (value "74HCS08") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/29331323-c917-4228-b5cb-c244122e0c1c"
-      (reference "U702") (unit 1) (value "74HC574") (footprint "Package_SO:SO-20_12.8x7.5mm_P1.27mm")
+      (reference "U702") (unit 1) (value "74HC573") (footprint "Package_SO:SO-20_12.8x7.5mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/197e7b0c-e18f-4f0a-9120-9f15eeaf4d66"
       (reference "U703") (unit 1) (value "74LV132") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
