@@ -424,7 +424,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../mechanical/qds-cv.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
