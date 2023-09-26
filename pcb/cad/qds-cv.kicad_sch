@@ -3155,7 +3155,7 @@
       (reference "U701") (unit 5) (value "74HCS08") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/29331323-c917-4228-b5cb-c244122e0c1c"
-      (reference "U702") (unit 1) (value "74HC574") (footprint "Package_SO:SO-20_12.8x7.5mm_P1.27mm")
+      (reference "U702") (unit 1) (value "74HC573") (footprint "Package_SO:SO-20_12.8x7.5mm_P1.27mm")
     )
     (path "/ad0bcf00-14ba-4be3-9e78-9e4ee2d714d5/197e7b0c-e18f-4f0a-9120-9f15eeaf4d66"
       (reference "U703") (unit 1) (value "74LV132") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
