@@ -946,7 +946,7 @@
     (property "Manufacturer" "Panasonic Electronic Components" (id 5) (at 107.95 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "CNPEM Code" "AP107375" (id 6) (at 107.95 77.47 0)
+    (property "CNPEM Code" "AP107374" (id 6) (at 107.95 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Vendor Link" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-3AEB1212V/2026845" (id 7) (at 107.95 77.47 0)

@@ -7361,7 +7361,7 @@
     (property "Datasheet" "https://spicat.kyocera-avx.com/product/mlcc/chartview/08055C104KAZ2A/DataSheet/X7R" (id 3) (at 60.96 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "CNPEM Code" "AP107349" (id 4) (at 60.96 127 0)
+    (property "CNPEM Code" "" (id 4) (at 60.96 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "Ceramic Capacitor 100nF 50V 10% SMD 0805 X7R" (id 5) (at 60.96 127 0)
